@@ -19,7 +19,7 @@ Cette étape consiste à vérifier que Python3 et pip3 sont correctement install
 
 ## Capture 1 — Vérification de Python et pip
 
-![Capture 1](images/1.png)
+![Capture 1](1.png)
 
 La commande suivante permet de vérifier les versions installées :
 
